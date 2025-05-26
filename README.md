@@ -12,7 +12,7 @@ This project is built on react-native CLI, so make sure you've [set up developme
 
 ```bash
 # clone the project and cd into it
-git clone https://github.com/pt-nakul-sharma/LearningApp.git
+git clone https://github.com/NakulEjaro/LearningApp.git
 cd ./LearningApp
 
 # install dependencies
